@@ -52,14 +52,14 @@ Créer une application Android simple qui permet de :
 
 ### 🔹 Écran principal
 
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](screenshots/main_screen.jpeg)
 
 ---
 
 ### 🔹 Fragment A
 
 
-![Fragment A](screenshots/fragment_a.png)
+![Fragment A](screenshots/fragment_a.jpeg)
 
 ---
 
@@ -67,8 +67,8 @@ Créer une application Android simple qui permet de :
 
 
 
-![Fragment B](screenshots/fragment_b.png)
-![Fragment B](screenshots/fragment_bb.png)
+![Fragment B](screenshots/fragment_b.jpeg)
+![Fragment B](screenshots/fragment_bb.jpeg)
 
 ---
 
